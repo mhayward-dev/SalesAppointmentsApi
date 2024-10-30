@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EC/VEW8+tC9WbYCI5m7ksT+ZqYwfEiZSblsq9mI6kIs=",
+  "Source": "SalesAppointments.Api",
+  "BasePath": "_content/SalesAppointments.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

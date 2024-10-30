@@ -1,0 +1,14 @@
+C:\Code\CalendarAPI\CalendarAPI.Data\bin\Debug\net8.0\CalendarAPI.Data.deps.json
+C:\Code\CalendarAPI\CalendarAPI.Data\bin\Debug\net8.0\CalendarAPI.Data.runtimeconfig.json
+C:\Code\CalendarAPI\CalendarAPI.Data\bin\Debug\net8.0\CalendarAPI.Data.dll
+C:\Code\CalendarAPI\CalendarAPI.Data\bin\Debug\net8.0\CalendarAPI.Data.pdb
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.csproj.AssemblyReference.cache
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.AssemblyInfoInputs.cache
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.AssemblyInfo.cs
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.csproj.CoreCompileInputs.cache
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.dll
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\refint\CalendarAPI.Data.dll
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.pdb
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\CalendarAPI.Data.genruntimeconfig.cache
+C:\Code\CalendarAPI\CalendarAPI.Data\obj\Debug\net8.0\ref\CalendarAPI.Data.dll

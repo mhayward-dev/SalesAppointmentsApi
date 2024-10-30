@@ -1,0 +1,14 @@
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\bin\Debug\net8.0\SalesAppointments.Data.deps.json
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\bin\Debug\net8.0\SalesAppointments.Data.runtimeconfig.json
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\bin\Debug\net8.0\SalesAppointments.Data.dll
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\bin\Debug\net8.0\SalesAppointments.Data.pdb
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.csproj.AssemblyReference.cache
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.AssemblyInfoInputs.cache
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.AssemblyInfo.cs
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.csproj.CoreCompileInputs.cache
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.dll
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\refint\SalesAppointments.Data.dll
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.pdb
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\SalesAppointments.Data.genruntimeconfig.cache
+C:\Code\SalesAppointmentsApi\src\SalesAppointments.Data\obj\Debug\net8.0\ref\SalesAppointments.Data.dll

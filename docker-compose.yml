@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  # PostgreSQL service
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: coding-challenge
+      POSTGRES_USER: postgress
+      POSTGRES_PASSWORD: mypassword123!
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+
+  # .NET API service
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:8080"  # Maps host port 3000 to container port 80
+    depends_on:
+      - db  # Ensures the db service starts before the API
+    environment:
+      ConnectionStrings__DatabaseConnection: "Host=db;Port=5432;Database=coding-challenge;Username=postgress;Password=mypassword123!"
